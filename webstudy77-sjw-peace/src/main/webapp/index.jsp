@@ -15,12 +15,14 @@
 <body>
 <div class="container pt-3">
 <h5>sjw peace web project</h5>
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> branch 'main' of https://github.com/seojungwoo/sjw230601.git
 <h5>방명록 남겨주세요.</h5>
-
-안녕하세요!!! 왔다 갑니다.
-
+안녕하세요!!! 왔다 갑니다.<br>
+test1
 </div>
 </body>
 </html>
