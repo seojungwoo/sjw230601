@@ -13,8 +13,13 @@
 <title>home</title>
 </head>
 <body>
+<<<<<<< HEAD
 <div class="container pt-3">
 <h5>sjw peace web project</h5>
+=======
+<div class="container pt-3">
+<h5>sjw peace web project</h5>
+>>>>>>> branch 'main' of https://github.com/seojungwoo/sjw230601.git
 <h5>방명록 남겨주세요.</h5>
 안녕하세요!!! 왔다 갑니다.<br>
 test1
