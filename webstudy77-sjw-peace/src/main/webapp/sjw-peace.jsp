@@ -10,15 +10,11 @@
 <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.4/dist/jquery.slim.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"></script>
-<title>home</title>
+<title>Insert title here</title>
 </head>
 <body>
 <div class="container pt-3">
-<h5>sjw peace web project</h5>
-<h5>방명록 남겨주세요.</h5>
-안녕하세요!!! 왔다 갑니다.<br>
-test1
-sjw
+sjw peace
 </div>
 </body>
 </html>
