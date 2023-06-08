@@ -19,7 +19,6 @@
 안녕하세요!!! 왔다 갑니다.<br>
 test1
 sjw
-test2
 </div>
 </body>
 </html>
